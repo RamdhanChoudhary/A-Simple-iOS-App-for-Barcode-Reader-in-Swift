@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '12.0'
+target 'Simple BarcodeScanner' do
+  pod 'BarcodeScanner'
+end
